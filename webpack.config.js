@@ -16,6 +16,10 @@ module.exports = {
                 test: /\.(js)$/,
                 use: './src/loader/clearlog-loader',
             },
+            {
+                test: /\.(css)$/,
+                use: './src/loader/css-loader',
+            },
         ]
     },
     plugins: [

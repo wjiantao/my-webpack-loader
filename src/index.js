@@ -1,3 +1,4 @@
+import '../assets/css/index.css'
 const a = '小明';
 var p = document.createElement('p');
 p.innerHTML = a;
