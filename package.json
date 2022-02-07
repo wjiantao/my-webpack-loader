@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@babel/generator": "^7.17.0",
+    "@babel/types": "^7.17.0",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.17.0",
+    "@babel/traverse": "^7.17.0",
+    "loader-utils": "^3.2.0",
+    "webpack": "^5.68.0"
+  },
+  "name": "img-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wjiantao <52995414+wjiantao@users.noreply.github.com>",
+  "license": "MIT"
+}

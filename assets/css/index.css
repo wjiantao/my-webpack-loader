@@ -1,0 +1,10 @@
+body {
+    background: red;
+}
+
+#div {
+    width: 100px;
+    height: 100px;
+    background: black;
+    text-align: right;
+}
